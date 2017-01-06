@@ -1,0 +1,6 @@
+c:\users\rino reyns\documents\visual studio 2015\Projects\Dieta_somatypy\Dieta_somatypy\bin\Release\Dieta_somatypy.exe.config
+c:\users\rino reyns\documents\visual studio 2015\Projects\Dieta_somatypy\Dieta_somatypy\bin\Release\Dieta_somatypy.exe
+c:\users\rino reyns\documents\visual studio 2015\Projects\Dieta_somatypy\Dieta_somatypy\bin\Release\Dieta_somatypy.pdb
+c:\users\rino reyns\documents\visual studio 2015\Projects\Dieta_somatypy\Dieta_somatypy\obj\Release\Dieta_somatypy.exe
+c:\users\rino reyns\documents\visual studio 2015\Projects\Dieta_somatypy\Dieta_somatypy\obj\Release\Dieta_somatypy.pdb
+C:\Users\Rino Reyns\documents\visual studio 2015\Projects\Dieta_somatypy\Dieta_somatypy\obj\Release\Dieta_somatypy.csprojResolveAssemblyReference.cache
